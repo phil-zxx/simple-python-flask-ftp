@@ -13,6 +13,7 @@ Then, perform the following steps in the command line (in the root folder of thi
 1. Run `python -m venv env` to **create** the virtual environment
 2. Run `./env/Scripts/Activate.ps1` (for Windows), or `./env/Scripts/activate` (on Linux) to **activate** the virtual environment
 3. Run `pip install -r .\requirements.txt` to **install** the required Python packages, like `flask`
+<br><br>
 
 ## Usage
 
