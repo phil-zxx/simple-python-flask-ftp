@@ -16,7 +16,7 @@ Then, perform the following steps in the command line (in the root folder of thi
 
 And finally
 
-4. Run `python run_server`
+4. Run `python run_server.py`
 <br><br>
 
 ## Comment
